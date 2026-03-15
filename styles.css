@@ -113,7 +113,7 @@ body {
 	outline-color: #F9F7F3;
 	animation-name: myAnimation;
 	animation-duration: 2s;
-	animation-iteration-count: infinite;
+	animation-iteration-count: 5;
 }
 @keyframes myAnimation{
 	0% {background-color: #568E5D;}
